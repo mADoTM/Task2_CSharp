@@ -1,0 +1,11 @@
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.deps.json
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.pdb
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\refint\GeometryLibrary.dll
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\GeometryLibrary.pdb
+C:\Users\Maxim Dolzhenko\RiderProjects\Task3\GeometryLibrary\obj\Debug\net6.0\ref\GeometryLibrary.dll
